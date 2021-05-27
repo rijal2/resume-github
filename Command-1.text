@@ -1,0 +1,15 @@
+1. pwd,
+    Print Working Directori, sebuah perintah untuk mengetahui posisi pointer kita dimana.
+2. ls,
+    ls... terdiri dari dua huruf yaitu L kecil dan huruf s kecil. Fungsi dari command line ini adalah untuk mengetahui isi dari folder kerja kita. Baik berupa atau pun folder, semua akan ditayangkan.
+3. clear,
+    Sesuai dengan namanya perintah ini digunakan untuk mengapus tulisan yang tampil di terminal.
+4. cd,
+    cd (change directory) untuk memindahkan pointer dari directory folder ke directory yang lain. caranya adalah dengan mengetik cd [spasi] nama directory (folder) yang kita tuju.
+5. git init,
+    command yang berfungsi untuk menginisialisasi atau mengubah folder biasa menjadi repo.
+
+
+
+Membuat /mengubah folder biasa menjadi repo git:
+1. Untuk membuat sebuah folder menjadi repo git, kita harus masuk terlebih dahulu kedalam folder tersebut. Untuk mngetahui posisi pointer kita saat ini ada di direktori mana, kita bisa mamanfaatkan command pwd.
