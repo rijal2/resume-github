@@ -12,3 +12,13 @@ PERINTAH-PERINTAH GIT atau yang dikenal dengan GIT COMMAND untuk LOCAL (di Kompu
 7. Git help, untuk mengetahui suatu perintah yang di akomodir oleh git.
 Dll
 
+Ada 3 Area pada Repo GIT, Yang harus kita kenali saat bekerja dengan GIT,:
+1. Working tree
+    Folder tempat kita bekerja, yang didalam nya menyimpan file.
+2. Stagging Area
+    Area dimana kita bisa mengetahui apakah didalam folder tersbut terjadi perubahan isi file, penambahan file ataupun pengurangan file. Atau yang lebih tepat kita sebut sebagai kondisi/status file yg ada pada repo. setelah kita megetahui status file tersebut, kita bisa mengambil dua tindakan. Commit atau tidak.
+3. History
+    Akan menunjukkan kepada kita file-file yang sudahdi commit.
+
+Dari ketiga area di atas, Stagging Area dan History yang akan disimpan kedalam sebuah folder yang diberi nama .git
+Jadi secara gampangnya. Folder tempat kita bekerja akan di buatkan folder bernama .git didalamnya.
