@@ -21,4 +21,5 @@ Ada 3 Area pada Repo GIT, Yang harus kita kenali saat bekerja dengan GIT,:
     Akan menunjukkan kepada kita file-file yang sudahdi commit.
 
 Dari ketiga area di atas, Stagging Area dan History yang akan disimpan kedalam sebuah folder yang diberi nama .git
-Jadi secara gampangnya. Folder tempat kita bekerja akan di buatkan folder bernama .git didalamnya.
+Jadi secara gampangnya. Di dalam Folder tempat kita bekerja akan di buatkan folder baru bernama .git, yang nantinya akan menampung segala perubahan yang terjadi pada folder kerja kita.
+Jika sebuah folder sudah memiliki .git, maka status nya sekarang bukan lagi sekedar folder biasa, tapi menjadi sebuah repository, atau yang lebih mudah diucapkan yaitu REPO.
