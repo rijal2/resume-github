@@ -5,7 +5,7 @@ https://git-scm.com/book/id/v2 (versi bahasa Indinesia)
 PERINTAH-PERINTAH GIT atau yang dikenal dengan GIT COMMAND untuk LOCAL (di Komputer/laptop):
 1. Git init , perintah untuk menginisialisasi repot git di komputer kita,
 2. Git add <file (s)>, perintah untuk menambahkan file yang sudah diubaha ataupun file baru ke Stagging Area.
-3. Git status, untuk mnengetahui status repo kita.
+3. Git status, untuk mnengetahui status repo kita, apakah ada penambahan & pengurangan file/folder atau perubahan isi dari file/folder tersebut.
 4. Git commit, untuk melakukan commit atas perubahan isi file, penambahan & pengurangan file.
 5. Git config, untuk melakukan konfigurasi didalam git yang kita punya.
 6. Git branch,
